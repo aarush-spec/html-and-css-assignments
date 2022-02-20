@@ -1,0 +1,48 @@
+body{
+    background-color: blanchedalmond;
+}
+img{
+    height: 500px;
+    width: auto;
+    border: 5px;
+    border-color: coral;
+    border-style: solid;
+    border-radius: 20px;
+    
+}
+h1{
+    text-align: center;
+}
+div{
+    padding: auto;
+}
+p{
+    font-size: x-large;
+}
+#first{
+    background-color: cornflowerblue;
+}
+#second{
+    color: yellow;
+    background-color: crimson;
+}
+#third{
+    color: white;
+    background-color: black;
+}
+#fourth{
+    color: aqua;
+    background-color: darkgrey;
+}
+#fifth{
+    color: black;
+    background-color: deeppink;
+}
+#sixth{
+    color:black;
+    background-color: cyan;
+}
+#seventh{
+    color: blueviolet;
+    background-color: deepskyblue;
+}
