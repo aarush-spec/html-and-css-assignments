@@ -1,0 +1,43 @@
+/* id selector */
+#one{
+    color: blue;
+}
+
+
+
+/* class selector */
+.second{
+    color: aqua;
+}
+
+
+
+/* grouping selector */
+footer, .first{
+    color: blueviolet;
+}
+
+
+
+/* parent-child selector */
+#two:nth-child(1n){
+    color: orange;
+}
+
+
+
+/* universal Selector  */
+*{
+    color: black;   
+}
+
+
+/* element selector */
+h1{
+    color: red;
+    text-align: center;
+}
+
+div p{
+    color: brown;
+}
